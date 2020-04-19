@@ -1,4 +1,4 @@
-""" Combination of CNN and LSTM inspired by
+""" Combination of CNN and GRU inspired by
 https://www.merl.com/publications/docs/TR2018-137.pdf """
 
 from typing import Tuple
